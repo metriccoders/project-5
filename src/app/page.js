@@ -53,7 +53,7 @@ export default function Home() {
             <TextField
               id="outlined-basic"
               label="Ask me to write a story!"
-              placeholder="Ony fiction please!"
+              placeholder="Only fiction please!"
               variant="outlined"
               multiline
               fullWidth
